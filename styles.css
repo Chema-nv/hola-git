@@ -1,0 +1,23 @@
+body{
+    margin: 0 auto;
+    background-color: blue;
+}
+h1{
+    background-color: aqua;
+    border-radius: 10px ;
+    height: 60px;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+h2{
+    background-color: rgb(56, 96, 96);
+    border-radius: 100px ;
+    height: 100px;
+    width: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 40px;  
+    margin-top: 20px;
+}
